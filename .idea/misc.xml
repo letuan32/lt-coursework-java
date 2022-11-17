@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3635" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3635" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3635" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3635" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/activity_create_trip.xml" value="0.25" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_create_trip.xml" value="0.25" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_dashboard.xml" value="0.18541666666666667" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_details_trip.xml" value="0.33" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_edit_trip.xml" value="0.1983695652173913" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_notifications.xml" value="0.14447463768115942" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_trip_details.xml" value="0.2259963768115942" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/fragment_upsert_trip.xml" value="0.18541666666666667" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/layout/trip_view.xml" value="0.30063291139240506" />
+        <entry key="..\:/UoG/ltcoursework/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

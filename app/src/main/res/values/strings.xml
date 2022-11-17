@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lt-course-work</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">New Trip</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_trip_details">Trip Detail</string>
+
+</resources>
